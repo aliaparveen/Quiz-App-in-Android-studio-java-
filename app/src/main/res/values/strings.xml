@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleQuiz</string>
+    <string name="string_c_a_b">string c = a + b;</string>
+</resources>
